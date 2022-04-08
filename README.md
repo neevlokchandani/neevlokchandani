@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [Nchat](https://github.com/neevlokchandani/Nchat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neevlokchandani&repo=Nchat&bg_color=bf3f00&border_color=bf3f00&text_color=ffffff&title_color=01ef8a)](https://github.com/neevlokchandani/Nchat)
+
 
 - 🌱 I’m currently learning **python**
 
